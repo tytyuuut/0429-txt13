@@ -261,7 +261,7 @@ html {
 .jumbotron {
     background-position: bottom;
     background-size: cover;
-    height: 100vh;
+    height: 114vh;
 }
 @media(max-width: 768px){
 	.jumbotron{
